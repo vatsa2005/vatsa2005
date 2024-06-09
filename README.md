@@ -1,7 +1,7 @@
 ## Hi there, I am Srivatsa 👋
 
 - 🌱 I’m currently learning Nextjs
-- 💬 Ask me about ...
+- 💬 Ask me about React or Frontend Development
 - 📫 How to reach me: svatsa2005@gmail.com or [https://www.linkedin.com/in/srivatsa-s-84b258297/]
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dark themes
