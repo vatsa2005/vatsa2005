@@ -6,3 +6,5 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like gaming
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vatsa2005&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
