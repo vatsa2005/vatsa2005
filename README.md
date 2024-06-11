@@ -6,8 +6,10 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like dark themes
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vatsa2005&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vatsa2005&theme=onedark)]
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vatsa2005)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=vatsa2005)]
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsa2005)]
 
 
