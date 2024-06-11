@@ -8,8 +8,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vatsa2005&theme=onedark)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=vatsa2005)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vatsa2005)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsa2005)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsa2005)
+
 
 
