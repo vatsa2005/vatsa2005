@@ -10,7 +10,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=vatsa2005)     ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vatsa2005)
 
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/vatsa2005/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 
 
